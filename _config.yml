@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "mint" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
-title: "Personal Site"
+title: "Personal site"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: Mohammad SheikhAhmadi's Personal Site
 name: "Mohammad SheikhAhmadi"
 description: "Mohammad SheikhAhmadi's Personal Site"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "./Images/Logo.svg"
+logo: #"./Images/Logo.jpg"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -115,7 +115,7 @@ author:
       url: "https://uok.ac.ir/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "smsag99.github.io"
+      url: "#"
     - label: "smsag99@gmail.com"
       icon: "fas fa-regular fa-at"
       url: ""
