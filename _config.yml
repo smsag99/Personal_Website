@@ -119,6 +119,9 @@ author:
     - label: "smsag99@gmail.com"
       icon: "fas fa-regular fa-at"
       url: ""
+    - label: "info@sheikh-ahmadi.ir"
+      icon: "fas fa-regular fa-at"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smsag99/"
@@ -289,7 +292,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 # Defaults
 defaults:
   # _posts
@@ -314,11 +316,11 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   - scope:
       path: ""
       type: pets
     values:
       layout: single
       author_profile: true
-      share: true 
+      share: true

@@ -2,18 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/pets/lhasa-apso/</loc>
-<lastmod>2022-07-10T14:56:44+04:30</lastmod>
+<lastmod>2022-07-10T15:43:29+04:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pets/tabby/</loc>
-<lastmod>2022-07-10T14:56:44+04:30</lastmod>
+<lastmod>2022-07-10T15:43:29+04:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/edge%20case/edge-case-nested-and-mixed-lists/</loc>
 <lastmod>2009-05-15T00:00:00+04:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Edu/</loc>
+<loc>http://localhost:4000/edu/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/exp/</loc>
@@ -22,6 +22,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Projects/</loc>
+<loc>http://localhost:4000/projects/</loc>
 </url>
 </urlset>
