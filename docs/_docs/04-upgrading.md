@@ -11,12 +11,7 @@ If you're using the [Ruby Gem]({{ "/docs/quick-start-guide/#gem-based-method" | 
 To check which version you are currently using, view the source of your built site and you should see something similar to:
 
 ```
-<!--
-  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
+
 ```
 
 At the top of every `.html` file, `/assets/css/main.css`, and `/assets/js/main.min.js`.
@@ -73,12 +68,12 @@ Another way of dealing with updates is [downloading the theme](https://github.co
 
 Here's a quick checklist of the important folders/files you'll want to be mindful of:
 
-| Name                   |     |
-| ----                   | --- |
-| `_layouts`             | Replace all. Apply edits if you customized any layouts. |
-| `_includes`            | Replace all. Apply edits if you customized any includes. |
-| `assets`               | Replace all. Apply edits if you customized stylesheets or scripts. |
-| `_sass`                | Replace all. Apply edits if you customized Sass partials. |
+| Name                   |                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| `_layouts`             | Replace all. Apply edits if you customized any layouts.                        |
+| `_includes`            | Replace all. Apply edits if you customized any includes.                       |
+| `assets`               | Replace all. Apply edits if you customized stylesheets or scripts.             |
+| `_sass`                | Replace all. Apply edits if you customized Sass partials.                      |
 | `_data/navigation.yml` | Safe to keep. Verify that there were no major structural changes or additions. |
 | `_data/ui-text.yml`    | Safe to keep. Verify that there were no major structural changes or additions. |
 | `_config.yml`          | Safe to keep. Verify that there were no major structural changes or additions. |
