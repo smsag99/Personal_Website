@@ -24,8 +24,8 @@ description: "Mohammad SheikhAhmadi's Personal Site"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: ./images/Avatar.jpg"
-logo: #"./Images/Logo.jpg"
+teaser: "./images/Avatar.jpg"
+logo: "./Images/LOGO.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-  hide: # true, false (default)
+  hide: true # true, false (default)
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia, google
@@ -79,7 +79,7 @@ baidu_site_verification:
 
 # Social Sharing
 twitter:
-  username:
+  username: 
 facebook:
   username:
   app_id:

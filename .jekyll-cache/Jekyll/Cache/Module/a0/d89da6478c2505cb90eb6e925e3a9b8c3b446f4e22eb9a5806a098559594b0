@@ -1,9 +1,11 @@
-I"ç
+I"M
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/Images/LOGO.png" alt="Personal site"></a>
         
         <a class="site-title" href="/">
           Personal site
