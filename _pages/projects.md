@@ -24,6 +24,14 @@ Aim of this project is finding all names of a specific location and extend more 
 <br>
 <hr>
 
+- **Personal Website**
+<br>
+a personal website made with ***jekyll*** to demonstrate some information like education, experiences, and projects.
+<br>
+[GitHub Repository](https://github.com/smsag99/Personal_Website/) **2021**
+<br>
+<hr>
+
 - **Music Player with Lyrics**
 <br>
 A web application that can play a music with its lyrics at same time. Lyrics, music, font, background, and colour are changeable.
