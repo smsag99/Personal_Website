@@ -9,7 +9,7 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 - **Research Assistant**<br>
- Research assistant in EndoLink Project with _[dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_ and _[dr. Fatemeh Daneshfar](https://uok.ac.ir/fa/~f.daneshfar) at University of kurdistan_. **2021**
+ Research assistant in **EndoLink** Project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_ and _[Dr. Fatemeh Daneshfar](https://uok.ac.ir/fa/~f.daneshfar) at University of kurdistan_. **2021**
 <br>
 <hr>
 - **Teaching Assistant**<br>

@@ -7,7 +7,7 @@ author_profile: true
 
 <hr>
 
-- **Graphical FTP ClientServer**
+- **Graphical FTP Client-Server**
 <br>
 An FTP client-server application that capable to send file to server by clients and to store it by server, and clients can download files on server.
 <br>
@@ -17,7 +17,7 @@ An FTP client-server application that capable to send file to server by clients 
 
 - **EndoLink**
 <br>
-Research project with _[dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_
+Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_,
 Aim of this project is finding all names of a specific location and extend more names to a specific location in different languages.
 <br>
 [GitHub Repository](https://github.com/smsag99/Endolink/) - [Website](https://smsag99.github.io/EndoLink/) **2021 - current**
@@ -26,7 +26,7 @@ Aim of this project is finding all names of a specific location and extend more 
 
 - **Personal Website**
 <br>
-a personal website made with ***jekyll*** to demonstrate some information like education, experiences, and projects.
+a personal website made with **_jekyll_** to demonstrate some information like education, experiences, and projects.
 <br>
 [GitHub Repository](https://github.com/smsag99/Personal_Website/) **2021**
 <br>
