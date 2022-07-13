@@ -17,10 +17,20 @@ An FTP client-server application that capable to send file to server by clients 
 
 - **EndoLink**
 <br>
-Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_,
+Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
 Aim of this project is finding all names of a specific location and extend more names to a specific location in different languages.
 <br>
 [GitHub Repository](https://github.com/smsag99/Endolink/) - [Website](https://smsag99.github.io/EndoLink/) **2021 - current**
+<br>
+<hr>
+
+- **KurdNet**
+<br>
+Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
+KurdNet is a Kurdish WordNet that was developed by Dr. Sina Ahmadi in 2014 ([article](https://aclanthology.org/W14-0101/)).<br>
+Aim of this project was to extend and improve it.  
+<br>
+Repository unavailable **2021**
 <br>
 <hr>
 

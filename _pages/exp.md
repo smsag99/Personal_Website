@@ -11,6 +11,9 @@ author_profile: true
 - **Research Assistant**<br>
  Research assistant in **EndoLink** Project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_ and _[Dr. Fatemeh Daneshfar](https://uok.ac.ir/fa/~f.daneshfar) at University of kurdistan_. **2021**
 <br>
+- **Research Assistant**<br>
+ Research assistant in **KurdNet** Project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_ and _[Dr. Fatemeh Daneshfar](https://uok.ac.ir/fa/~f.daneshfar) at University of kurdistan_. **2021**
+<br>
 <hr>
 - **Teaching Assistant**<br>
  Teaching assistant of **Fundamentals of Computer Programming** course with C programming language, with _[dr. Amanj Khorramian](https://uok.ac.ir/fa/~a.khorramian) at University of kurdistan_. **2019**
