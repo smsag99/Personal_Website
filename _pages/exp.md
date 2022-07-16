@@ -16,7 +16,7 @@ author_profile: true
 <br>
 <hr>
 - **Teaching Assistant**<br>
- Teaching assistant of **Fundamentals of Computer Programming** course with C programming language, with _[dr. Amanj Khorramian](https://uok.ac.ir/fa/~a.khorramian) at University of kurdistan_. **2019**
+ Teaching assistant of **Fundamentals of Computer Programming** course with C programming language, with _[Dr. Amanj Khorramian](https://uok.ac.ir/fa/~a.khorramian) at University of kurdistan_. **2019**
 <br>
 <hr>
 - **Student Union**<br>
