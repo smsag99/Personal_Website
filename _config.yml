@@ -79,7 +79,7 @@ baidu_site_verification:
 
 # Social Sharing
 twitter:
-  username: 
+  username:
 facebook:
   username:
   app_id:
@@ -104,6 +104,7 @@ author:
   name: "Mohammad SheikhAhmadi"
   avatar: "./Images/Avatar.jpg"
   bio: "I am a **computer engineering** student."
+  # bio: "BSc in Computer Engineering "
   location: "Iran, kurdistan province"
   #email: "smsag99@gmail.com"
   links:
