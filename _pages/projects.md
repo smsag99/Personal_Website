@@ -7,13 +7,13 @@ author_profile: true
 
 <hr>
 
-- **Graphical FTP Client-Server**
+<!-- - **Graphical FTP Client-Server**
 <br>
 An FTP client-server application that capable to send file to server by clients and to store it by server, and clients can download files on server.
 <br>
 [GitHub Repository](https://github.com/smsag99/Graphical_FTP_ClientServer/) **2022**
 <br>
-<hr>
+<hr> -->
 
 - **EndoLink**
 <br>
