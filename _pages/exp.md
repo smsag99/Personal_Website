@@ -26,7 +26,7 @@ author_profile: true
 ## work Experiences
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-- **Back-End Developer with Node JS WorkSHop**<br>
+- **Junior Node Js Back-End Developer**<br>
  [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
 <br>
 <hr>
