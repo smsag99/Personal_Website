@@ -32,7 +32,7 @@ author_profile: true
 
 ## WorkShops
 
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 - **CEH Security WorkShop**<br>
  CEH Security Course with [Moslem Haghighian](https://independent.academia.edu/MoslemHaghighian).  **2020**
 <br>
