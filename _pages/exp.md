@@ -5,6 +5,13 @@ permalink: /exp/
 author_profile: true
 ---
 
+## work Experiences
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+- **Junior Node Js Back-End Developer**<br>
+ [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
+<br>
+
 ## Academic Experiences
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -23,12 +30,8 @@ author_profile: true
 - **Student Union**<br>
  Member of IOT student union. **2019-2020**
 
-## work Experiences
+## WorkShops
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-- **Junior Node Js Back-End Developer**<br>
- [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
-<br>
 <hr>
 - **CEH Security WorkShop**<br>
  CEH Security Course with [Moslem Haghighian](https://independent.academia.edu/MoslemHaghighian).  **2020**
@@ -36,4 +39,8 @@ author_profile: true
 <hr>
 - **IOT WorkShop**<br>
 IOT Workshop at [University of kurdistan](https://uok.ac.ir/).  **2019**
+<br>
+<hr>
+- **Kotlin Programming workshop**<br>
+Building android application with **kotlin** [University of kurdistan](https://uok.ac.ir/).  **2022**
 <br>
