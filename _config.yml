@@ -16,18 +16,19 @@ minimal_mistakes_skin: "mint" # "default" ,"air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale: "en-US"
+#locale: "fa-IR"
 title: "Personal site"
 title_separator: "-"
 subtitle: Mohammad SheikhAhmadi's Personal Site
-name: "Mohammad SheikhAhmadi"
-description: "Mohammad SheikhAhmadi's Personal Site"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: "Mohammad SheikhAhmadi - محمد شیخ احمدی"
+description: "Mohammad SheikhAhmadi's Personal Site - صفحه شخصی محمد شیخ احمدی"
+url: https://sheikh-ahmadi.ir # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "./images/Avatar.jpg"
+#teaser: "./images/Avatar.jpg"
 logo: #"./Images/LOGO.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
