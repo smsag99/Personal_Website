@@ -11,7 +11,7 @@ author_profile: true
 - **Junior Node Js Back-End Developer**<br>
  [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
 <br>
-
+<br>
 ## Academic Experiences
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -29,7 +29,8 @@ author_profile: true
 <hr>
 - **Student Union**<br>
  Member of IOT student union. **2019-2020**
-
+<br>
+<br>
 ## WorkShops
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
