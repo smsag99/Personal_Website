@@ -8,7 +8,7 @@ author_profile: true
 ## work Experiences
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-- **Co-Funder VGostar**<br>
+- **Co-Founder VGostar**<br>
 Implementation of Augmented Reality technology (AR) in Iran for camercial purposes. 
  [VGostar](https://www.VGostar.ir/).  **Dec - 2022** - **Current**
 <hr>
