@@ -10,6 +10,12 @@ author_profile: true
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 - **Junior Node Js Back-End Developer**<br>
  [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
+ <br>
+<hr>
+- **Co-Funder VGostar**<br>
+Implement Augmented reality (AR) in Iran for camercial purposes. 
+ [VGostar](https://www.VGostar.ir/).  **Dec - 2022** - **Current**
+ <br>
 <br>
 <br>
 ## Academic Experiences
