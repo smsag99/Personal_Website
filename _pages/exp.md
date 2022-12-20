@@ -13,7 +13,7 @@ author_profile: true
  <br>
 <hr>
 - **Co-Funder VGostar**<br>
-Implement Augmented reality (AR) in Iran for camercial purposes. 
+Implementation of Augmented Reality technology (AR) in Iran for camercial purposes. 
  [VGostar](https://www.VGostar.ir/).  **Dec - 2022** - **Current**
  <br>
 <br>
