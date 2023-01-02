@@ -1,0 +1,80 @@
+I"�
+<hr />
+
+<!-- - **Graphical FTP Client-Server**
+<br>
+An FTP client-server application that capable to send file to server by clients and to store it by server, and clients can download files on server.
+<br>
+[GitHub Repository](https://github.com/smsag99/Graphical_FTP_ClientServer/) **2022**
+<br>
+<hr> -->
+
+<ul>
+  <li><strong>Dr. Sina Ahmadi</strong>
+<br /></li>
+</ul>
+
+<p><img src="https://marinegeo.github.io/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;" /></p>
+
+<p>Research project with <em><a href="https://sinaahmadi.github.io/">Dr. Sina Ahmadi</a> at George Mason University</em>.<br />
+Aim of this project is finding all names of a specific location and extend more names to a specific location in different languages.
+<br />
+Privte Repository <strong>2021 - current</strong>
+<br /></p>
+<hr />
+
+<ul>
+  <li><strong>KurdNet</strong>
+<br />
+Research project with <em><a href="https://sinaahmadi.github.io/">Dr. Sina Ahmadi</a> at George Mason University</em>.<br />
+KurdNet is a Kurdish WordNet that was developed by Dr. Sina Ahmadi in 2014 (<a href="https://aclanthology.org/W14-0101/">article</a>).<br />
+Aim of this project was to extend and improve it.<br />
+<br />
+Privte Repository <strong>2021</strong>
+<br /></li>
+</ul>
+<hr />
+
+<ul>
+  <li><strong>Personal Website</strong>
+<br />
+a personal website made with <strong><em>jekyll</em></strong> to demonstrate some information like education, experiences, and projects.
+<br />
+<a href="https://github.com/smsag99/Personal_Website/">GitHub Repository</a> <strong>2021</strong>
+<br /></li>
+</ul>
+<hr />
+
+<ul>
+  <li><strong>Music Player with Lyrics</strong>
+<br />
+A web application that can play a music with its lyrics at same time. Lyrics, music, font, background, and colour are changeable.
+<br />
+<em>(Private Repository)</em> <strong>2021</strong>
+<br /></li>
+</ul>
+<hr />
+
+<ul>
+  <li><strong>MEMORAL</strong>
+<br />
+stores and shops can use this software for selling products, checking remains, printing reports, and some more features like access level (e.g. manager, seller, …).
+<br />
+<a href="https://github.com/smsag99/memoral/">GitHub Repository</a> <strong>2020</strong>
+<br /></li>
+</ul>
+<hr />
+
+<ul>
+  <li><strong>New Sort of Barcode for Personal Purpose</strong>
+<br />
+making new sort of barcode that apart from <em>QR-Code</em> and <em>128-code</em>.<br />
+I use openCV library and develop on multi platforms e.g. unity, android studio, … .
+It can recognize specefic characters that is defined. It can calculate and decode some information from a list of characters.
+<br />
+<em>(Private Repository)</em> <strong>2018 - current</strong>
+<br /></li>
+</ul>
+<hr />
+
+:ET

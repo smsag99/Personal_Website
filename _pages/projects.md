@@ -25,13 +25,14 @@ Privte Repository **2021 - current**
 <hr>
 
 - **KurdNet**
-<br>
-Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
-KurdNet is a Kurdish WordNet that was developed by Dr. Sina Ahmadi in 2014 ([article](https://aclanthology.org/W14-0101/)).<br>
-Aim of this project was to extend and improve it.  
-<br>
-Privte Repository **2021**
-<br>
+  <br>
+  Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
+  KurdNet is a Kurdish WordNet that was developed by Dr. Sina Ahmadi in 2014 ([article](https://aclanthology.org/W14-0101/)).<br>
+  Aim of this project was to extend and improve it.
+  <br>
+  Privte Repository **2021**
+  <br>
+
 <hr>
 
 - **Personal Website**

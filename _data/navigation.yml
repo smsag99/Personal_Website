@@ -7,10 +7,12 @@ main:
   - title: "Home"
     url: /#/
   - title: "Education"
-    url: /edu/
+    url: /education/
   - title: "Projects"
     url: /projects/
   - title: "Experiences"
-    url: /exp/
+    url: /experiences/
+  - title: "References"
+    url: /references/
   #- title: "Terms"
   # url: /terms/
