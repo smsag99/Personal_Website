@@ -10,7 +10,7 @@ author_profile: true
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 - **Co-Founder VGostar**<br>
 Implementation of Augmented Reality technology (AR) in Iran for commercial purposes. 
- [VGostar](https://www.VGostar.ir/).  **Dec - 2022** - **Current**
+ VGostar.  **Dec 2022** - ** July 2023**
 <hr>
 - **Junior Node Js Back-End Developer**<br>
  [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
