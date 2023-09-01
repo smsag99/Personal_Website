@@ -104,15 +104,15 @@ analytics:
 author:
   name: "Mohammad SheikhAhmadi"
   avatar: "./Images/Avatar.jpg"
-  bio: "I am a **computer engineering** student."
+  bio: "I am a **Data Science** student."
   # bio: "BSc in Computer Engineering "
-  location: "Iran, kurdistan province"
+  location: "Italy, Turin"
   #email: "smsag99@gmail.com"
   links:
     #- label: "Email"
     #icon: "fas fa-fw fa-envelope-square"
     #url: "mailto:your.name@email.com"
-    - label: "University of Kurdistan"
+    - label: "Politecnico di Torino"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://uok.ac.ir/"
     # - label: " VGostar"
