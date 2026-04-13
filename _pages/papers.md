@@ -12,7 +12,7 @@ author_profile: true
 ### A Hybrid Random Forest and CNN Framework for Tile-Wise Oil-Water Classification in Hyperspectral Images
 **Authors:** S.Mohammad S.Ahmadi, Mehdi Nickzamir<br>
 **Abstract:** This paper introduces a hybrid framework that improves oil-water classification in hyperspectral images by training a Convolutional Neural Network on Random Forest probability maps to integrate spatial context with pixel-wise spectral data.<br>
-[PDF](https://arxiv.org/html/2502.00232v1) | [arXiv](https://arxiv.org/html/2502.00232v1)
+[PDF](/Download/2502.00232v1.pdf) | [arXiv](https://arxiv.org/html/2502.00232v1)
 
 ---
 
