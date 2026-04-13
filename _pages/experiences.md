@@ -14,7 +14,7 @@ and operating system, enhancing user accessibility and broadening potential user
 • Presented VGostar’s AR products (AR banner and business card) at ELECOMP international exhibition 2023, engaging with professionals and securing valuable partnerships to boost startup visibility.
 • Achieved notable milestones in the first year by exploring market opportunities and
 refining product offerings, although the startup was eventually discontinued due to
-market fit challenges  **Dec 2022** - ** July 2023**
+market fit challenges  **Dec 2022** - **Sep 2023**
 <hr>
 - **Junior Node Js Back-End Developer**<br>
 • Created and launched the Microlearning project using NodeJS, MongoDB, and
@@ -22,7 +22,7 @@ Docker, accelerating employee readiness and earning initial funding with its fir
 • Guided the development team as Scrum Master and back-end mentor on an online
 gold shop project, improving platform performance while gaining valuable teamwork
 and leadership skills.
- [Zharfa academy](https://www.zharfaco.com/).  **2022** - **Current**
+ [Zharfa academy](https://www.zharfaco.com/).  **Jan 2022** - **Sep 2023**
  <br>
 <br>
 <br>
