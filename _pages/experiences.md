@@ -9,19 +9,15 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 - **Co-Founder VGostar**<br>
-• Developed a cross-platform web-based AR execution platform independent of device
-and operating system, enhancing user accessibility and broadening potential user base.
-• Presented VGostar’s AR products (AR banner and business card) at ELECOMP international exhibition 2023, engaging with professionals and securing valuable partnerships to boost startup visibility.
-• Achieved notable milestones in the first year by exploring market opportunities and
-refining product offerings, although the startup was eventually discontinued due to
-market fit challenges  **Dec 2022** - **Sep 2023**
+• Developed a cross-platform web-based AR execution platform independent of device and operating system, enhancing user accessibility and broadening potential user base.<br>
+• Presented VGostar’s AR products (AR banner and business card) at ELECOMP international exhibition 2023, engaging with professionals and securing valuable partnerships to boost startup visibility.<br>
+• Achieved notable milestones in the first year by exploring market opportunities and refining product offerings, although the startup was eventually discontinued due to
+market fit challenges.<br>  **Dec 2022** - **Sep 2023**
 <hr>
 - **Junior Node Js Back-End Developer**<br>
-• Created and launched the Microlearning project using NodeJS, MongoDB, and
-Docker, accelerating employee readiness and earning initial funding with its first application in the Kurdistan Science and Technology Park..
-• Guided the development team as Scrum Master and back-end mentor on an online
-gold shop project, improving platform performance while gaining valuable teamwork
-and leadership skills.
+• Created and launched the Microlearning project using NodeJS, MongoDB, and Docker, accelerating employee readiness and earning initial funding with its first application in the Kurdistan Science and Technology Park.<br>
+• Guided the development team as Scrum Master and back-end mentor on an online gold shop project, improving platform performance while gaining valuable teamwork
+and leadership skills.<br>
  [Zharfa academy](https://www.zharfaco.com/).  **Jan 2022** - **Sep 2023**
  <br>
 <br>
