@@ -19,7 +19,7 @@ An FTP client-server application that capable to send file to server by clients 
 Built a full-stack SaaS app that analyzes CVs, identifies skill gaps, and generates personalized 30-day learning roadmaps using _Google Gemini AI_.<br>
 Implemented Google OAuth, PDF upload, Supabase PostgreSQL with row-level security, and deployed to production on Vercel.
 <br>
-[GitHub Repository](https://github.com/smsag99/skillmap) **2026**
+[GitHub Repository](https://github.com/smsag99/skillmap) [ai-skillmap.vercel.app](https://ai-skillmap.vercel.app)**2026**
 <br>
 <hr>
 
