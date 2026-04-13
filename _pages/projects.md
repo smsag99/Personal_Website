@@ -91,7 +91,7 @@ A web-site that teaches student step by step. It is been used by companies for t
 Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
 Aim of this project is finding all names of a specific location and extend more names to a specific location in different languages.
 <br>
-Privte Repository **2021**
+Private Repository **2021**
 <br>
 <hr>
 
@@ -101,7 +101,7 @@ Privte Repository **2021**
   KurdNet is a Kurdish WordNet that was developed by Dr. Sina Ahmadi in 2014 ([article](https://aclanthology.org/W14-0101/)).<br>
   Aim of this project was to extend and improve it.
   <br>
-  Privte Repository **2021**
+  Private Repository **2021**
   <br>
 
 <hr>

@@ -7,9 +7,3 @@ pdf_url: "link-to-pdf"
 code_url: "link-to-code"
 arxiv_url: "link-to-arxiv"
 ---
-
-Abstract text goes here...
-
-## Key Contributions
-- Contribution 1
-- Contribution 2
