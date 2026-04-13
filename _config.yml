@@ -284,6 +284,9 @@ compress_html:
 
 # Collections
 collections:
+  papers:
+    output: true
+    permalink: /:collection/:path/
   recipes:
     output: true
     permalink: /:collection/:path/
