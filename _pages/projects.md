@@ -82,7 +82,7 @@ Performed data cleaning, feature engineering, and benchmarking. Achieved a top s
 Back-end of a commercial project at _[Zharfa Accelerator](https://www.zharfaco.com/) with Node.js_.<br>
 A web-site that teaches student step by step. It is been used by companies for teaching their staff.
 <br>
-[GitHub Repository](https://github.com/smsag99/Microlearning/) **2023 - 2023**
+[GitHub Repository](https://github.com/smsag99/Microlearning/) **2023**
 <br>
 <hr>
 
@@ -91,7 +91,7 @@ A web-site that teaches student step by step. It is been used by companies for t
 Research project with _[Dr. Sina Ahmadi](https://sinaahmadi.github.io/) at George Mason University_.<br>
 Aim of this project is finding all names of a specific location and extend more names to a specific location in different languages.
 <br>
-Privte Repository **2021 - current**
+Privte Repository **2021**
 <br>
 <hr>
 
