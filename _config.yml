@@ -19,9 +19,9 @@ locale: "en-US"
 #locale: "fa-IR"
 title: "Personal site"
 title_separator: "-"
-subtitle: Mohammad SheikhAhmadi's Personal Site
-name: "Mohammad Sheikh Ahmadi"
-description: "Mohammad SheikhAhmadi's Personal Site - صفحه شخصی محمد شیخ احمدی "
+subtitle: Sam Ahmadi's Personal Site
+name: "Sam Ahmadi"
+description: "Sam Ahmadi's Personal Site - صفحه شخصی محمد شیخ احمدی "
 url: https://sheikh-ahmadi.ir # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
